@@ -1,9 +1,8 @@
-# Portswigger-Lab-Writeups
-Documentation for all completed PortSwigger Labs. I do not own or manage any of these labs, however I have writen documentation for each lab I complete which can be followed.
-
 # PortSwigger Web Security Academy Lab Writeups
 
 This repository contains my personal writeups for PortSwigger Web Security Academy labs. These writeups document my learning process, methodology, and understanding of common web application vulnerabilities.
+
+Please note that all passwords and URLs may vary for individuals.
 
 ## Purpose
 
